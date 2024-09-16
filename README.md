@@ -36,10 +36,10 @@ Por tanto, estaremos clasificando el tumor en dos clases: maligno y benigno:
 
 - Maligno
 
-![Melanoma maligno](data/train/malignant/melanoma_5008.jpg)
+![Melanoma maligno](melanoma_5008.jpg)
 - Benigno
 
-![Melanoma maligno](data/train/benign/melanoma_2.jpg)
+![Melanoma maligno](melanoma_2.jpg)
 
 De este modo, contamos con un dataset completamente balanceado con 5.000 imágenes para cada clase de tumor. Esto nos permitirá lograar un tiempo de entrenamiento razonable durante el desarrollo del proyecto, mientras que nos permitirá mantener la efectividad del modelo. El dataset original empleado y descargado de Kaggle, se divide en dos carpetas: test.zip y train.zip. Esta última carpeta del conjunto de entrenamiento contiene dos subdirectorios, cada uno correspondiente a una clase de tumor (benigno y maligno) y está accesible a través del siguiente [enlace](https://drive.google.com/drive/folders/1yC-cCbb1lM5kv0C-DmZfZZ72-FzFXly5?usp=drive_link)
 
