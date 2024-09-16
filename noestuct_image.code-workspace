@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "noestruct_text",
+			"path": "../noestruct_text"
+		}
+	],
+	"settings": {}
+}
